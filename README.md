@@ -22,10 +22,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=LucasLatsch&show_icons=true" />
 </picture>
- 
-<picture>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLatsch&theme=dark&hide_border=false" /> 
-</picture>
+
 
 </p>
  
