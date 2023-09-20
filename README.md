@@ -6,22 +6,14 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLatsch&show_icons=true" />
 </picture>
-
 </br>
-
 <picture>
  <source
     srcset="https://github-readme-stats.vercel.app/api?username=LucasLatsch&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
  />
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasLatsch&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
- />
  <img src="https://github-readme-stats.vercel.app/api?username=LucasLatsch&show_icons=true" />
 </picture>
-
-
 </p>
  
 👋 Olá! Me chamo Lucas e atualmente estou realizando um curso de residência em TI, a fim de adquirir o máximo possível de conhecimento para a criação de um portfólio completo.
